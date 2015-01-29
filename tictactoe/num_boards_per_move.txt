@@ -1,0 +1,11 @@
+ Number of unique boards per number of moves
+           0           1           0
+           1           3           0
+           2          12           0
+           3          38           0
+           4         108           0
+           5         174          21
+           6         204          21
+           7         153          58
+           8          57          23
+           9          15          15
